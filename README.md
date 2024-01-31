@@ -35,7 +35,7 @@ I have also created a couple of pet projects, for instance, [several Shopify app
 
 ## 📚 What I'm currently learning
 
-<img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=LeetCode&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fuser0684Q&logo=leetcode&logoColor=yellow" alt="LeetCode"/>
+<img src="https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=LeetCode&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fuser0684Q&logo=leetcode&logoColor=yellow" alt="LeetCode"/>
 
 <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
 
