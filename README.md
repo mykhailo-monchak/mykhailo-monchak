@@ -4,7 +4,8 @@ I'm a software engineer from <img src="https://cdn-icons-png.flaticon.com/128/19
 
 ## 🔭 Quick overview
 
-I've been programming for the last 15 years, have a master's degree in Computer science, and am passionate about software development.
+I've been programming for the last 15 years, have a master's degree in Computer Science, and am passionate about software development.
+
 Currently, I'm a big fan of TypeScript and Node.js.
 
 ## 🌱 What I do
