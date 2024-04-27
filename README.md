@@ -4,7 +4,8 @@
 
 - 🔭 I've been programming for the last 15 years, have a master's degree in Computer Science, and am passionate about software development. Currently, I'm a big fan of TypeScript and Node.js.
 
-- 🌱 I participated in multiple projects from different areas and techs. Held various positions like an engineer, team lead, and CTO. Several startups were launched from scratch 🚀
+- 🌱 I participated in multiple projects from different areas and techs. Served as an engineer, team lead, and CTO. Several startups were
+  successfully launched from scratch 🚀
 
 - 🦄 I have also created a couple of pet projects, for instance, [several Shopify apps](https://apps.shopify.com/partners/mykhailo-monchak) and an [app for fans](https://beastwot.com) of a popular game with a bunch of stats, widgets, etc.
 
@@ -22,11 +23,11 @@
 
 ## 🌐 Languages
 
-| Language  | Proficiency                                             |
-| --------- | ------------------------------------------------------- |
-| English   | C2 ([EFSET certified](https://www.efset.org/cert/todo)) |
-| Polish    | B1                                                      |
-| Ukrainian | Native language                                         |
+| Language  | Proficiency                                           |
+| --------- | ----------------------------------------------------- |
+| English   | C2 ([EFSET certified](https://cert.efset.org/EJnmUW)) |
+| Polish    | B1                                                    |
+| Ukrainian | Native language                                       |
 
 ## 📚 What I'm currently learning
 
