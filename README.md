@@ -1,33 +1,33 @@
-# Hi everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
+# Hi everyone 👋
 
-- I'm a software engineer from <img src="https://cdn-icons-png.flaticon.com/128/197/197572.png" width="13" alt="Ukraine"/> Ukraine, currently living in <img src="https://cdn-icons-png.flaticon.com/128/4628/4628690.png" width="13" alt="Poland"/> Poland.
+- I'm a software engineer from 🇺🇦 Ukraine, currently living in 🇵🇱 Poland.
 
 - 🔭 I've been programming for the last 15 years, have a master's degree in Computer Science, and am passionate about software development. Currently, I'm a big fan of TypeScript and Node.js.
 
 - 🌱 I participated in multiple projects from different areas and techs. Served as an engineer, team lead, and CTO. Several startups were
   successfully launched from scratch 🚀
 
-- 🦄 I have also created a couple of pet projects, for instance, [several Shopify apps](https://apps.shopify.com/partners/mykhailo-monchak) and an [app for fans](https://beastwot.com) of a popular game with a bunch of stats, widgets, etc.
+- 🦄 I have also created a couple of pet projects, for instance, several Shopify <a href="https://apps.shopify.com/partners/mykhailo-monchak" target="_blank">apps</a> and <a href="https://beastwot.com" target="_blank">an app</a> for of a popular game with a bunch of stats, widgets, etc.
 
 ## 📜 Currently using
 
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-<img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-<img alt="Prisma" src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=html5&logoColor=white" />
-<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-<img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](#)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)](#)
+[![NestJs](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white)](#)
+[![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)](#)
+[![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)](#)
+[![HTML5](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=html5&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](#)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](#)
+[![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)](#)
 
 ## 🌐 Languages
 
-| Language  | Proficiency                                           |
-| --------- | ----------------------------------------------------- |
-| English   | C2 ([EFSET certified](https://cert.efset.org/EJnmUW)) |
-| Polish    | B1                                                    |
-| Ukrainian | Native language                                       |
+| Language  | Proficiency                                                                      |
+| --------- | -------------------------------------------------------------------------------- |
+| English   | C2 (<a href="https://cert.efset.org/EJnmUW" target="_blank">EFSET certified</a>) |
+| Polish    | B1                                                                               |
+| Ukrainian | Native language                                                                  |
 
 ## 📚 What I'm currently learning
 
